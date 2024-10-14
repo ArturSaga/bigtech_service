@@ -1,4 +1,4 @@
-FROM golang:1.20.3-alpine AS builder
+FROM golang:1.23.2-alpine AS builder
 
 COPY . /github.com/ArturSaga/bigtech_service/week2/grpc/source/
 WORKDIR /github.com/ArturSaga/bigtech_service/week2/grpc/source/
