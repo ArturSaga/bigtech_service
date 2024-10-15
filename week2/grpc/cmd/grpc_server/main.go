@@ -11,7 +11,7 @@ import (
 	"google.golang.org/grpc/reflection"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	desc "github.com/ArturSaga/bigtech_service/week1/grpc/pkg/note_v1"
+	desc "github.com/ArturSaga/bigtech_service/week2/grpc/pkg/note_v1"
 )
 
 const grpcPort = 50051

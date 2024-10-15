@@ -1,4 +1,4 @@
-module github.com/ArturSaga/bigtech_service/week2/grpc
+module github.com/ArturSaga/bigtech_service/week1/grpc
 
 go 1.23
 
